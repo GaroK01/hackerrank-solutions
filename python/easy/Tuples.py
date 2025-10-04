@@ -1,0 +1,7 @@
+# Note this problem is designed for python 2 
+if __name__ == '__main__':
+    n = int(raw_input())
+    # Cast it to a tuple
+    integer_list = tuple(map(int, raw_input().split()))
+    # print the hash
+    print(hash(integer_list))
