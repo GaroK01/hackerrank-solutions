@@ -9,9 +9,12 @@ This repo contains my personal solutions to a variety of HackerRank coding chall
 
 ## 📁 Repository Structure
 python/
-├── easy/     → Solutions to beginner-level problems
-├── medium/   → Solutions to intermediate problems
-└── hard/     → Solutions to advanced challenges
+
+    ├── easy/     → Solutions to beginner-level problems
+
+    ├── medium/   → Solutions to intermediate problems        
+
+    └── hard/     → Solutions to advanced challenges
 
 Each folder contains well-commented and readable Python scripts for the respective challenge. Problem statements and brief explanations are included in the code where relevant.
 
